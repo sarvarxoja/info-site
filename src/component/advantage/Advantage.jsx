@@ -22,7 +22,7 @@ export const Adventage = () => {
                <img 
                  src={service.icon} 
                  alt={service.title}
-                 className="w-12 h-12 text-purple-500"
+                 className="w-12 h-12 text-purple-500 m-auto"
                />
              </div>
              <h3 className="text-xl font-semibold text-white mb-3">

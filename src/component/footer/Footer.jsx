@@ -1,6 +1,7 @@
 import "./footer.css";
 import React from "react";
 import { MapPin, Phone } from "lucide-react";
+import Ellipse from "../../../public/Ellipse 1947.png";
 
 export const Footer = () => {
   return (
