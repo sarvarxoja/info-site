@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Individual yondashuv",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector.png"
+  },
+  {
+    "id": 2,
+    "title": "Ekspertiza",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector search.png"
+  },
+  {
+    "id": 3,
+    "title": "Professional xizmat",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector x.png"
+  },
+  {
+    "id": 4,
+    "title": "Individual yondashuv",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector.png"
+  },
+  {
+    "id": 5,
+    "title": "Ekspertiza",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector search.png"
+  },
+  {
+    "id": 6,
+    "title": "Professional xizmat",
+    "description": "Biz har bir mijozga g'amxo'rlik olamiz va ularning ehtiyojlariga javob beradigan echimlarni yaratamiz",
+    "icon": "/public/Vector x.png"
+  }
+]

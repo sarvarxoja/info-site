@@ -1,0 +1,15 @@
+.service_line {
+    width: 80%;
+    height: 600px;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.service_box {
+    text-align: center;
+    cursor: pointer;
+}
+
+.service_image {
+    margin: auto;
+}

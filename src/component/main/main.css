@@ -1,0 +1,44 @@
+.header-background {
+    background: url("../../../public/1.png");
+    height: 600px;
+    width: 100%;
+}
+
+.top-img {
+    position: absolute;
+    right: 0px;
+}
+
+.bottom-img {
+    height: 230px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.globus {
+    align-items: center;
+    position: relative;
+    top: 90px;
+    justify-content: space-between;
+    height: 350px;
+}
+
+.canvas {
+  margin-left: 175px;
+}
+
+.font {
+    width: 470px;
+    margin-bottom: 30px;
+}
+
+.bio {
+    width: 500px;
+    color: white;
+    font-size: 18px;
+}
+
+.logo-portfolio {
+    position: relative;
+    top: 110px;
+}

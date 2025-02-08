@@ -1,0 +1,29 @@
+.coffe_form_container {
+    width: 1227px;
+    margin: auto;
+    border-radius: 20px;
+    border: 0.1px solid white;
+}
+
+.coffe_form {
+  display: flex;
+  align-items: center;
+}
+
+.form_position {
+  max-width: 1007px;
+  margin: auto;
+}
+
+.a_form_zone {
+  width: 500px;
+}
+
+.coffe_type {
+  background: #5353531a;
+  width: 500px;
+  border-radius: 20px;
+  height: 480px;
+  text-align: center;
+  padding: 30px;
+}

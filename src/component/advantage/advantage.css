@@ -1,0 +1,15 @@
+.line_image {
+    position: absolute;
+    top: 1220px;
+}
+
+.ellipse_bg {
+    position: absolute;
+    width: 600px;
+    top: 690px;
+}
+
+.service_box {
+    z-index: 1;
+    border-radius: 10px;
+}
